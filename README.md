@@ -74,4 +74,5 @@ RegisterNumber: 212223230133*/
 ### HALF SUBSTRACTER
 ![image](https://github.com/Narasimhan05/HALF_ADDER_SUBTRACTOR/assets/132819871/03f56db6-0911-474f-ba75-62619857762b)
 
-**Result:**
+## Result:
+Thus, a half adder and half subtractor circuit is designed to verify its truth table in Quartus using Verilog programming.
